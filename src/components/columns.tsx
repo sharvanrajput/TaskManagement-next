@@ -19,7 +19,7 @@ export const columns: ColumnDef<task>[] = [
         header: "ID",
     },
     {
-        accessorKey: "title",
+        accessorKey: "taskName",
         header: "Task",
     },
     {
